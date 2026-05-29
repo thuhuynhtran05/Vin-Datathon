@@ -51,5 +51,5 @@ Hệ thống Dashboard được thiết kế với 5 trang chuyên biệt nhằm
     * Hợp tác đa đơn vị vận chuyển (Multi-carrier).
     * Cải thiện Size Guide, thêm thông tin chiều cao/cân nặng người mẫu để khách dễ ước lượng.
 <img width="1370" height="747" alt="Screenshot 2026-04-30 212554" src="https://github.com/user-attachments/assets/0ce22572-ecab-4f8d-9b54-e3e0dfa6bb45" />
-
+Link live dashboard :https://app.powerbi.com/groups/me/reports/796464f0-7d7d-45ed-b94b-0442c7c78cb8?pbi_source=desktop
 ---
