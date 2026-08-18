@@ -53,3 +53,14 @@ Hệ thống Dashboard được thiết kế với 5 trang chuyên biệt nhằm
 <img width="1370" height="747" alt="Screenshot 2026-04-30 212554" src="https://github.com/user-attachments/assets/0ce22572-ecab-4f8d-9b54-e3e0dfa6bb45" />
 Link live dashboard :https://app.powerbi.com/groups/me/reports/796464f0-7d7d-45ed-b94b-0442c7c78cb8?pbi_source=desktop
 ---
+### 6. Những phát hiện quan trọng từ dashboard
+Năm phát hiện kinh doanh nổi bật từ quá trình phân tích:
+• Revenue CAGR âm (khoảng −3.8%/năm), margin co từ ∼22% xuống ∼14%: doanh nghiệp
+đã qua đỉnh.
+• Gần 48% khách hàng không hoạt động (Never Purchased + Lost); retention rơi mạnh ngay
+từ tháng +1: thiếu chương trình giữ chân.
+• Promo áp dụng cho ∼38% đơn nhưng làm AOV giảm đều qua mọi category: cần kiểm
+soát floor price.
+• Streetwear chi phối doanh thu nhưng rủi ro tập trung cao: cần đa dạng hoá category.
+• organic_search + social_media có volume lớn nhưng AOV thấp; email_campaign có AOV
+cao nhưng volume nhỏ: cơ hội tái phân bổ ngân sách chưa được khai thác.
