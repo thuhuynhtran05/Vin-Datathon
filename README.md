@@ -294,7 +294,7 @@ Giảm delivery time và return do sizing.
 # 🛠️ Tools & Technologies
 
 - **Power BI** — Dashboard & Data Visualization
-- **SQL Server** — Data Querying & Transformation
+- **Python** — Data Querying & Transformation
 - **Excel** — Data Exploration & Validation
 - **DAX** — KPI Calculation & Business Metrics
 
